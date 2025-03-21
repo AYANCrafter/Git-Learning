@@ -13,3 +13,6 @@ console.log(Payment)
 
 
 console.log("Latest Update");
+
+// I am fixing some bug
+console.log("Bug Fixed");
