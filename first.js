@@ -12,4 +12,11 @@ console.log(login);
 
 const Payment="Integrated the payment gateway";
 console.log(Payment)
+<<<<<<< HEAD
 >>>>>>> f861baf (Payment Added)
+=======
+
+const upi="Integrated the upi";
+console.log(upi);
+
+>>>>>>> a85be69 (UPI Added)
